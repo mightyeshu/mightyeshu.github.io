@@ -19,7 +19,7 @@
 
 🌟 A passionate developer building tools, platforms, and digital solutions with performance in mind.
 
-💼 Founder of **[Laag Technology Inc.](https://eshuplus.me)** — where we blend creativity, code, and cloud to build the future.
+💼 Founder of **[Laag Technology Inc.](https://cloud.laag.in)** — where we blend creativity, code, and cloud to build the future.
 
 🧰 Skilled in back-end, front-end, DevOps, and full-stack development.
 
