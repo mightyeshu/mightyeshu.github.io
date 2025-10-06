@@ -37,15 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eshuplus&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshuplus&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ## ✨ Featured Projects
 
 > Coming soon — currently building something amazing under wraps. Stay tuned at [eshuplus.me](https://eshuplus.me) 🚧👨‍💻
