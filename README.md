@@ -1,54 +1,21 @@
-<h1 align="center">Hi 👋, I'm EshuPlus</h1>
-<h3 align="center">🧠 Developer | 🌐 Founder @ Laag Technology Inc. | 🇮🇳 India</h3>
+<h1 align="center">Hello, I'm Prashant Sharma</h1> 
+<h3 align="center">I am self-employed and from India.</h3>
 
-<p align="center">
-  <a href="https://eshuplus.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-EshuPlus.me-0A66C2?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/eshuplus" target="_blank">
-    <img src="https://img.shields.io/github/followers/eshuplus?style=for-the-badge&logo=github&label=Follow&color=171515" />
-  </a>
-  <a href="https://twitter.com/EshuPlus" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@EshuPlus-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<hr>
+<div align="center">
+Let me introduce you with Eshu and share what I think about myself. 
 
----
+I think I'm crazy about my work, my goals, and my purpose, and I'm always excited about them. That's why I'm self-employed: I work for myself.
 
-## 🚀 About Me
+When I stopped worrying about my future, I started creating it. I developed a vision to improve what I have.
 
-🌟 A passionate developer building tools, platforms, and digital solutions with performance in mind.
+I aim to bring depth and detail to my work until it feels perfect to me.
 
-💼 Founder of **[Laag Technology Inc.](https://cloud.laag.in)** — where we blend creativity, code, and cloud to build the future.
+I believe in perfection, but as a improvement, I don't seek quick perfection. I seek perfection in my own way.
+</div>
+<hr>
 
-🧰 Skilled in back-end, front-end, DevOps, and full-stack development.
+I was too lazy, but when I started working toward my aim, I also decided the end!
+> “I'm not crazy; I just do what I want. I care Whatever you think of me! But the opposite is also be true.”
 
-🔭 Currently working on **next-gen web infrastructure**, AI-powered services, and cloud-native systems.
-
----
-
-## 🛠 Tech Stack
-
-| Languages      | Frameworks & Tools             | DevOps & OS         |
-|----------------|--------------------------------|----------------------|
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-
----
-
-## ✨ Featured Projects
-
-> Coming soon — currently building something amazing under wraps. Stay tuned at [eshuplus.me](https://eshuplus.me) 🚧👨‍💻
-
----
-
-## 💬 Connect with Me
-
-📩 Email: [hello@eshuplus.me](mailto:hello@eshuplus.me)  
-🔗 Website: [https://eshuplus.me](https://eshuplus.me)  
-🐧 Linux Enthusiast | 🖥️ Self-Hosted Systems Fan | ☁️ Web Performance Optimizer
-
----
-
-> “Build what matters. Automate what wastes. Secure what you ship.” — @EshuPlus
+If you don't understand, then leave it, because I don't want to describe it too easily. Because every step I take has a purpose.
