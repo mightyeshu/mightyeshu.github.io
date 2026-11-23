@@ -14,7 +14,7 @@ I aim to bring depth and detail to my work until it feels perfect to me.
 I believe in perfection, but as a improvement, I don't seek quick perfection. I seek perfection in my own way.
 </div>
 <hr>
-
+1
 I was too lazy, but when I started working toward my aim, I also decided the end!
 > “I'm not crazy; I just do what I want. I care Whatever you think of me! But the opposite is also be true.”
 
